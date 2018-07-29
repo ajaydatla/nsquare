@@ -1,0 +1,6 @@
+---
+applications:
+- name: nsquaretest
+  random-route: true
+  memory: 256M
+  path: target/nsquare-0.0.1-SNAPSHOT.war
